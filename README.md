@@ -1,3 +1,9 @@
+Fixed version from P8H for Python 3. Only *Drain* are tested.
+
+Install it with `pip install git+https://github.com/P8H/logparser.git`
+
+---
+
 <p align="center"> <a href="https://github.com/logpai"> <img src="https://github.com/logpai/logpai.github.io/blob/master/img/logpai_logo.jpg" width="425"></a></p>
 
 
